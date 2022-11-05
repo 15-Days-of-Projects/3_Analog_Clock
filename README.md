@@ -5,8 +5,9 @@ This is an analog clock project
 <img align="right" alt="Coding" width="400" 
 src="https://github.com/30-Days-of-Projects/3_Analog_Clock/blob/main/Analog-Clock.png">
 
-- 🔭   This is the 2nd project from my 30 Days of Project Repository.
-- 🔭   So this is a simple stopwatch which can be useful to individuals for their individuals works and all.
+- 🔭   This is the 3rd project from my 30 Days of Project Repository.
+- 🔭   This is analog clock which get time(data) from the system and shows it on display.
+- 🔭   I made this analog clock with Avengers Templates, which looks extremely good.
 - 🔭   Thank You for Visiting here...
 
 
